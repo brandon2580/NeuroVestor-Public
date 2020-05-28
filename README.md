@@ -15,6 +15,12 @@ In it's current state, any user cannot completely run the project from this repo
 
 - Please remember, you can ONLY enter tickers that are present in the DOW 30. Doing otherwise will leave you with a blank page. This is because of sandbox limitations.
 
+- The EPS Estimates Comparison tool on the Analysis page does nothing, and contains dummy data (the proper data needed to be paid for, which I don't wanna do unless I monetize this, which I do not plan on doing)
+
+- Most of the data on the Earnings card (Overview page) contains dummy data. This also costs money for real data
+
+- If you create an account, email verification is required (you may sign in as a Guest)
+
 ## Overview Page
 ![Overview Page](https://i.gyazo.com/aec1a821ca6325d0cca439a718a9e54d.png)
 
