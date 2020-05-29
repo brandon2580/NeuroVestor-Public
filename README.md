@@ -15,6 +15,8 @@ In it's current state, any user cannot completely run the project from this repo
 
 - Please remember, you can ONLY enter tickers that are present in the DOW 30. Doing otherwise will leave you with a blank page. This is because of sandbox limitations.
 
+- This app was not designed with mobile friendliness in mind. With the features and flow of this web application, the devloper decided that in order for it to be practically used on a mobile device, a dedicated mobile app would have to be created (this has not been done and is not planned to be)
+
 - The EPS Estimates Comparison tool on the Analysis page does nothing, and contains dummy data (the proper data needed to be paid for, which I don't wanna do unless I monetize this, which I do not plan on doing)
 
 - Most of the data on the Earnings card (Overview page) contains dummy data. This also costs money for real data
