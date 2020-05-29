@@ -11,7 +11,7 @@ NeuroVestor is an in-depth equity analysis tool that retrieves sandbox data from
 - Valuation metrics, growth data, key data, financials, news, trailing metrics, SEC filings, book data, charts & MUCH more
 
 ## Note
-In its current state, any user cannot completely run the project from this repository. You will be able to run the frontend code via npm install then npm start in /neurovestor. However, this will not actually display any data. If you are wanting to see actual data, you can view the project at https://neurovestor.web.app
+In its current state, any user cannot completely run the project from this repository. You will be able to run the frontend code via npm install then npm start in /neurovestor. However, this will not actually display any data. If you are interested in viewing a demo, you can view the project at https://neurovestor.web.app
 
 - Please remember, you can ONLY enter tickers that are present in the DOW 30. Doing otherwise will leave you with a blank page. This is because of sandbox limitations.
 
