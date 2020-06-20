@@ -13,6 +13,8 @@ NeuroVestor is an in-depth equity analysis tool that retrieves sandbox data from
 ## Note
 In its current state, any user cannot completely run the project from this repository. You will be able to run the frontend code via npm install then npm start in /neurovestor. However, this will not actually display any data. If you are interested in viewing a demo, you can view the project at https://neurovestor.web.app
 
+- This application is NOT meant for real world research in its current state. All of the data is sandbox test data from Intrinio and IEXCloud. I am not responsible for any financial loss as a result of your usage of NeuroVestor located at https://neurovestor.web.app
+
 - Please remember, you can ONLY enter tickers that are present in the DOW 30. Doing otherwise will leave you with a blank page. This is because of sandbox limitations.
 
 - After you FIRST initially load the page after logging in, you will probably have to wait a few seconds (3-10 seconds) for anything to happen. No, the page is not frozen. There are some slight inefficiencies in the ETL process causing the initial page load to take longer than expected. You might see some blank cards show up. In this case, just refresh the page and the issue should not arise again during your session. This is my first large project, so I apologize for lack of efficiency. 
