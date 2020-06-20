@@ -15,6 +15,8 @@ In its current state, any user cannot completely run the project from this repos
 
 - Please remember, you can ONLY enter tickers that are present in the DOW 30. Doing otherwise will leave you with a blank page. This is because of sandbox limitations.
 
+- After you FIRST initially load the page after logging in, you will probably have to wait a few seconds for anything to happen. No, the page is not frozen. There are some slight inefficiencies in the ETL process causing the initial page load to take longer than expected. You might see some blank cards show up. In this case, just refresh the page and the issue should not arise again during your session.
+
 - This app was not designed with mobile-friendliness in mind. With the features and flow of this web application, the developer decided that in order for it to be practically used on a mobile device, a dedicated mobile app would have to be created (this has not been done and is not planned to be done anytime soon)
 
 - The EPS Estimates Comparison tool on the Analysis page does nothing and contains dummy data (the proper data needed to be paid for, which I don't want to do unless I monetize this, which I do not plan on doing)
