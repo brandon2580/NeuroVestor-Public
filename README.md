@@ -1,7 +1,7 @@
 # NeuroVestor
 
 ## About
-NeuroVestor is an in-depth equity analysis tool that retrieves sandbox data from Intrinio and IEXCloud. Because IEXCloud is a pay-as-you-go service, I implemented a data caching ETL process to save money. I did this via storing the data from IEXCloud in a Firebase DB. The required data from both data providers will cost somewhere around $2,300/yr. To be 100% functional, there is some setup required, so if you are interested in using this tool for personal equity research purposes, please feel free to contact me at - dalbecb@gmail.com
+NeuroVestor is an in-depth equity analysis tool that retrieves sandbox data from Intrinio and IEXCloud. Because IEXCloud is a pay-as-you-go service, I implemented a data caching ETL process to save money. I did this via storing the data from IEXCloud in a Firebase DB. The required data from both data providers will cost somewhere around $2,300/yr.
 
 ## Features
 - Cards on the Overview page and Analysis page are draggable, droppable, and resizable
