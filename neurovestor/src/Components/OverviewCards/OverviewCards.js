@@ -244,7 +244,6 @@ const OverviewCards = () => {
                 <GridLayout                    
                     cols={{ lg: 20, sm: 20, md: 20, xs: 20, xxs: 20 }}
                     rowHeight={30}
-                    measureBeforeMount={true}
                     draggableHandle={'.ant-card-head'}
                 >
                     {/* For this to work properly, we will have to do a lot of different things here. The
