@@ -27,9 +27,6 @@ In its current state, any user cannot completely run the project from this repos
 
 - If you create an account, email verification is required (you may sign in as a Guest)
 
-## Link
-https://neurovestor.web.app/
-
 ## Overview Page
 ![Overview Page](https://i.gyazo.com/aec1a821ca6325d0cca439a718a9e54d.png)
 
