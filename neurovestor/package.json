@@ -19,7 +19,7 @@
         "intrinio-sdk": "^5.1.0",
         "jquery": "^3.5.0",
         "lodash": "^4.17.15",
-        "npm-check-updates": "^4.1.0",
+        "npm-check-updates": "^16.7.4",
         "re-resizable": "^6.2.0",
         "react": "^16.13.1",
         "react-beautiful-dnd": "^13.0.0",
